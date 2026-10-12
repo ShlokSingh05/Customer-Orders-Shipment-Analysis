@@ -1,0 +1,6 @@
+table_name,row_count
+customers,1000
+orders,3000
+warehouses,10
+shipments,3000
+total_records,7010

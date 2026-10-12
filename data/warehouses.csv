@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,city,state,capacity_units
+1,Delhi Distribution Center,Delhi,Delhi,15648
+2,Mumbai Distribution Center,Mumbai,Maharashtra,12819
+3,Bengaluru Distribution Center,Bengaluru,Karnataka,21012
+4,Hyderabad Distribution Center,Hyderabad,Telangana,20024
+5,Chennai Distribution Center,Chennai,Tamil Nadu,19314
+6,Kolkata Distribution Center,Kolkata,West Bengal,16572
+7,Pune Distribution Center,Pune,Maharashtra,15358
+8,Jaipur Distribution Center,Jaipur,Rajasthan,29870
+9,Lucknow Distribution Center,Lucknow,Uttar Pradesh,14848
+10,Ahmedabad Distribution Center,Ahmedabad,Gujarat,25825
